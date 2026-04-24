@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Diran Dilshan
 
-<!--
-**Diran-Dilshan/Diran-Dilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Java | Spring Boot  
+🚀 Passionate about building real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Java
+- Spring Boot
+- MySQL
+- Git & GitHub
+- HTML, CSS, JavaScript
+
+---
+
+## 📌 Projects
+- 🏨 Hotel Management System  
+- 🏢 Apartment Management System  
+- 🏧 ATM Application  
+- 🏋️ Gym Management System  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diran-Dilshan&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- Email: your-email@gmail.com
+- LinkedIn: your-linkedin-link
