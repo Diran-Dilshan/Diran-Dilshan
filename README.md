@@ -1,5 +1,5 @@
 <img width="2560" height="1504" alt="image" src="https://github.com/user-attachments/assets/2f8aca99-2914-4867-b816-793038c2e9d8" />
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Spring+Boot+Developer;UI+UX+Enthusiast)
+
 # Hi there 👋, I'm Diran Dilshan
 
 💻 Software Developer | Java | Spring Boot  
